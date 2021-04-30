@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Cyantosh0.Cyantosh0)
 
 </p>
-<div size='20px'> Hi! I'm Santosh Shrestha [A passionate full stack developer] :smile: 
+<div size='20px'> Hi! I'm <b>Santosh Shrestha</b> [A passionate full stack developer] :smile: 
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p>
