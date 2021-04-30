@@ -1,5 +1,4 @@
 <h1><b>Hello World!</b></h1>
-<hr />
 <h3>I'm Santosh Shrestha [A passionate full stack developer]</h3>
 
 - 💬 Ask me about **React, Go, PHP**
