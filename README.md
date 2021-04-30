@@ -1,5 +1,20 @@
-<h1><b>Hello World!</b></h1>
-<h3>I'm Santosh Shrestha [A passionate full stack developer]</h3>
+<h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Cyantosh0.Cyantosh0)
+
+</p>
+<div size='20px'> Hi! I'm Santosh Shrestha [A passionate full stack developer] :smile: 
+  
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p>
+<a href = 'https://www.linkedin.com/in/santosh-shrestha-383857144'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/Cyantosh'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://medium.com/@santosh.shrestha'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'https://www.github.com/Cyantosh0'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+</p>
+</div>
 
 - 💬 Ask me about **React, Go, PHP**
 
