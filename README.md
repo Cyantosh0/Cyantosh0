@@ -35,7 +35,6 @@
   <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 </div>
 
-<br />
 <div>
   <h3> Quote </h3>
   <h5><i>“Every challenge you face today makes you stronger tomorrow. The challenge of life is intended to make you better, not bitter.”</i></h5>
