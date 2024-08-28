@@ -87,14 +87,6 @@
 <br />
 
 <div>
-  <h2> About Me </h2>
-  
-  - 💬 Talk to me about **React and Go**
-
-  - ⚡ Fun fact: I crack jokes which are not funny but you can't help laughing.
-</div>
-
-<div>
   <h3> Quote </h3>
   <h5><i>“Every challenge you face today makes you stronger tomorrow. The challenge of life is intended to make you better, not bitter.”</i></h5>
 </div>
