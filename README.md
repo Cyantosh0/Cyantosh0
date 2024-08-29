@@ -1,5 +1,3 @@
-<h1> <img src = "https://st2.depositphotos.com/1498528/5936/v/450/depositphotos_59360247-stock-illustration-explosion-bubble-game-on.jpg" width = 200px> </h1>
-
 <p align='center'></p>
 
 <div size='20px'> 
